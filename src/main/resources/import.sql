@@ -1,0 +1,1 @@
+INSERT INTO person_entity(id, name) VALUES ('072745c7-00c5-4188-9ef3-16c8158af120', 'Alexandre');
